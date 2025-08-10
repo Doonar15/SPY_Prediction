@@ -1,0 +1,30 @@
+Optimized Lasso Stock Prediction Summary for SPY
+============================================================
+
+Data Period: 2020-08-11 to 2025-08-10
+Prediction Horizon: 5 days
+Total Features Created: 83
+Features Selected: 69
+
+Model Performance:
+Best Alpha: 0.1
+CV R² Score: 0.4817 (+/- 0.1709)
+Test R² Score: 0.6763
+Test MAE: $11.75
+Features Used: 30
+
+Ensemble Performance:
+R² Score: 0.6781
+MAE: $11.77
+
+Top 10 Important Features:
+- SMA_5: 29.0461
+- BB_Upper_10: 7.5355
+- Support_50: 6.0829
+- SMA_50: 3.1552
+- Return_Skew_20: 2.0177
+- BB_Lower_20: 1.8088
+- EMA_12: 1.7610
+- Price_to_SMA_5: 1.6452
+- Volume_Ratio_50: 1.5946
+- SR_Position_20: 1.5342

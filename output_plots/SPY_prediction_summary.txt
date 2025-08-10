@@ -18,13 +18,13 @@ R² Score: 0.6781
 MAE: $11.77
 
 Top 10 Important Features:
-- SMA_5: 29.0461
+- SMA_5: 29.0460
 - BB_Upper_10: 7.5355
-- Support_50: 6.0829
-- SMA_50: 3.1552
+- Support_50: 6.0830
+- SMA_50: 3.1549
 - Return_Skew_20: 2.0177
 - BB_Lower_20: 1.8088
-- EMA_12: 1.7610
+- EMA_12: 1.7612
 - Price_to_SMA_5: 1.6452
 - Volume_Ratio_50: 1.5946
-- SR_Position_20: 1.5342
+- SR_Position_20: 1.5341
